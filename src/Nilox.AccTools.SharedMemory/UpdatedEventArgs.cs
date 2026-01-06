@@ -1,4 +1,4 @@
-﻿namespace Thomsen.AccTools.SharedMemory;
+﻿namespace Nilox.AccTools.SharedMemory;
 
 public delegate void UpdatedHandler<T>(object sender, UpdatedEventArgs<T> e);
 

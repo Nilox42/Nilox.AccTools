@@ -1,7 +1,7 @@
 ﻿using System.IO.MemoryMappedFiles;
 using System.Runtime.InteropServices;
 
-namespace Thomsen.AccTools.SharedMemory;
+namespace Nilox.AccTools.SharedMemory;
 
 internal class PeriodicSharedMemoryPoller<T> : IDisposable where T : struct {
     private bool _disposed;

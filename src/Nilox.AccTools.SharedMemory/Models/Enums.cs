@@ -1,4 +1,4 @@
-﻿namespace Thomsen.AccTools.SharedMemory.Models;
+﻿namespace Nilox.AccTools.SharedMemory.Models;
 
 public enum TrackGripStatus {
     GREEN = 0,

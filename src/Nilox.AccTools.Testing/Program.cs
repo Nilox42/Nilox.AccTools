@@ -1,7 +1,7 @@
 ﻿
-using Thomsen.AccTools.SharedMemory;
+using Nilox.AccTools.SharedMemory;
 
-namespace Thomsen.AccTools.Tester;
+namespace Nilox.AccTools.Tester;
 
 internal class Program {
     private static async Task Main(string[] args) {

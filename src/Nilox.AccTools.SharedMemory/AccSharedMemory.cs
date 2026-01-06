@@ -1,6 +1,6 @@
-﻿using Thomsen.AccTools.SharedMemory.Models;
+﻿using Nilox.AccTools.SharedMemory.Models;
 
-namespace Thomsen.AccTools.SharedMemory;
+namespace Nilox.AccTools.SharedMemory;
 
 public enum ConnectionState {
     Disconnected,

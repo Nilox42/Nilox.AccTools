@@ -1,7 +1,7 @@
 ﻿
 using System.Runtime.InteropServices;
 
-namespace Thomsen.AccTools.SharedMemory.Models;
+namespace Nilox.AccTools.SharedMemory.Models;
 
 [StructLayout(LayoutKind.Sequential, Pack = 4, CharSet = CharSet.Unicode)]
 [Serializable]

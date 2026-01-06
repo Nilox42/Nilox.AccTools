@@ -9,7 +9,7 @@
         <Authors>Thomas Wagner</Authors>
         <Company>Thomas Wagner</Company>
         <Copyright>Copyright © 2022</Copyright>
-        <RepositoryUrl>https://github.com/Thomseeen/Thomsen.AccTools</RepositoryUrl>        
-        <PackageProjectUrl>https://github.com/Thomseeen/Thomsen.AccTools</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/Thomseeen/Nilox.AccTools</RepositoryUrl>        
+        <PackageProjectUrl>https://github.com/Thomseeen/Nilox.AccTools</PackageProjectUrl>
     </PropertyGroup>
 </Project>
